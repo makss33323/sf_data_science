@@ -1,17 +1,17 @@
 ## Проект 0. Угадай число
 
 ### Оглавление
-[1. Описание проекта](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Результат)  
-[6. Выводы](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#Выводы)  
+[1. Описание проекта](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Результат)  
+[6. Выводы](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#Выводы)  
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[ к оглавлению](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -27,4 +27,4 @@
 Учимся писать хороший код на python
 
 ### Краткая информация о данных
-:arrow_up:[ к оглавлению](https://github.com/skillfactoryDS/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/makss33323/sf_data_science/tree/main/project_0/README.md#оглавление)
