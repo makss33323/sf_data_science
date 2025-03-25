@@ -1,0 +1,4 @@
+{
+    "dataWrangler.experiments.fastCsvParsing": true,
+    "dataWrangler.experiments.autoDetectCsvDelimiter": true
+}
